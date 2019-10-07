@@ -1,0 +1,2 @@
+le fichier etc/resolv.conf contient l'addresse IP du serveur DNS que j'utilise,
+en effectuant un ls -l de ect/resolv.conf, on remarque que celui-ci est un lien symbolique vers /var/run/resolv.conf qui est donc le chemin complet de ce fichier.

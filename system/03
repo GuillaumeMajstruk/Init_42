@@ -1,0 +1,1 @@
+le fichier a modifier pour rendre permanent le changement de nom du systeme est le fichier '/etc/hostname' car c'est ce fichier qui contient le nom du systeme et qui l'attribut a celui-ci au demarrage: lecture du fichier -> script -> attribution

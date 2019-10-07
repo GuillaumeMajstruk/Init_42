@@ -1,0 +1,1 @@
+le fichier ~/.ssh/authorized_keys contient les cles RSA des machines autorisees a se connecter via SSH (configuration via le fichier /etc/ssh/sshd_config '#AuthorizedKeysFile'

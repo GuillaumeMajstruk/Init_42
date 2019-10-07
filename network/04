@@ -1,0 +1,1 @@
+route get default | grep 'gateway' | sed 's/gateway: //' | awk '{$1=$1};1'

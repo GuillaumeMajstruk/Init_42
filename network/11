@@ -1,0 +1,1 @@
+grace a la commande 'traceroute' (qui determine le chemin entre l'ordinateur depuis laquelle elle est lancee et l'argument de la commande) on peut voir que la premiere adresse est locale et la seconde est l'interface entre le reseau local et externe la reponse est donc -> nat-1 ip: 10.60.1.11
